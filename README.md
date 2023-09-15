@@ -1,6 +1,4 @@
-# 19CS406-EX-1 STUDY OF SOCKET PROGRAMMING WITH CLIENT-SERVER MODEL
-
-## DATE : 06-03-2023
+# 19CS406-EX-1 STUDY OF SOCKET PROGRAMMING WITH CLIENT-SERVER MODE
 
 ## AIM :
 To write a python program to perform stop and wait protocol
@@ -21,8 +19,8 @@ To write a python program to perform stop and wait protocol
 
 
 ## CLIENT PROGRAM :
-### Developed By : AAKAASH V P
-### Reg No : 212220230001
+### Developed By : Vishal Gowthaman K R
+### Reg No : 212221230123
  ```
 import socket
 s=socket.socket()
